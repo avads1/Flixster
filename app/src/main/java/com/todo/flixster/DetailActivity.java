@@ -26,7 +26,7 @@ public class DetailActivity extends YouTubeBaseActivity {
     TextView tvOverview;
     RatingBar ratingBar;
     private static final String YOUTUBE_API_KEY = "AIzaSyCGXAK4rYTSsPeS_ISOLKIZ53wdR0uneCo";
-    public static final String VIDEOS_URL = "https://api.themoviedb.org/3/movie/209112/videos?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed";
+    public static final String VIDEOS_URL = "https://api.themoviedb.org/3/movie/%d/videos?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed";
     YouTubePlayerView youTubePlayerView;
 
     @Override
