@@ -21,8 +21,8 @@
 <img src="https://github.com/avads1/Flixster/blob/master/demo.gif" width=250><br>
 
 ### Notes
-The 400 network error that is seen in the demo was not fixed.
-I tried deleting the device in the emulator and installing a new device as suggested. But it didnt seem to work.
+The 400 network error that is seen in the demo was fixed.
+I tried deleting the device in the emulator and installing a new device as suggested. It worked.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
